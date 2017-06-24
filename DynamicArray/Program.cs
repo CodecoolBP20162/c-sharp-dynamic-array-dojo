@@ -10,7 +10,7 @@ namespace DynamicArrayDojo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Don't run me. Run the TESTS!" \
+            Console.WriteLine("Don't run me. Run the TESTS!" +
             "\nFind them in the menu: Test - Run - All Tests");
             Console.ReadKey();
 
